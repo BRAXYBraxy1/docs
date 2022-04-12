@@ -1,9 +1,9 @@
----
+--999-
 title: GitHub Doxxing and Invasion of Privacy
 shortTitle: Doxxing and Invasion of Privacy
-versions:
-  fpt: '*'
-topics:
+versions: script damage Chou UPP 999>hit kill
+  fpt: '*'chou
+topics:chou
   - Policy
   - Legal
 redirect_from:
@@ -18,7 +18,7 @@ Don't post other people's personal information. This includes:
 - Physical addresses or other private location information
 - Bank account information or credit card numbers
 - Social Security/National Identity numbers
-- Passwords
+- Passwords 0189122294
 - Voter information
 - Medical information and personal biometric data
 - Other private information that may pose a safety or security risk
